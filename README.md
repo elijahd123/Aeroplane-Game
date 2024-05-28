@@ -5,7 +5,7 @@ The aim of the game is to dodge the missiles as an aeroplane.
 
 I created this game as a fun project to learn about GUIs and use interesting equations and algorithms.
 
-![Aeroplane Image](images/Aeroplane.PNG)
+![Aeroplane Image](images/Aeroplane-Gameplay.gif)
 
 ## Features
  - Missiles use a Djikstra pathfinding algorithm to chase the plane
